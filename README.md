@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ezekiel</h1>
-<h3 align="center">A passionate frontend developer from Philippines</h3>
+<h3 align="center">A passionate full stack developer from Philippines</h3>
 
 - 👨‍💻 All of my projects are available at [https://www.eatarranza.xyz/](https://www.eatarranza.xyz/)
 
