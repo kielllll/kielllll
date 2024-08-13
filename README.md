@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **eatarranza@gmail.com**
 
-- 📄 Know about my [experiences](https://drive.google.com/file/d/1-apV_UNruY38YeS6Hfu_yLGnOi7i1pLg/view?usp=drive_link)
+- 📄 Know about my [experiences](https://drive.google.com/file/d/1LeE9dMTUC3gxh3IjxQrcnhFuFuDU7CXJ/view?usp=sharing)
 
 - ⚡ Fun fact **I am a team player! I fill in what the team needs**
 
