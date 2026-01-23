@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ezekiel</h1>
 <h3 align="center">A passionate full stack developer from Philippines</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.eatarranza.xyz/](https://www.eatarranza.xyz/)
+- 👨‍💻 All of my projects are available at [https://www.eatarranza.dev/](https://www.eatarranza.dev/)
 
 - 📫 How to reach me **eatarranza@gmail.com**
 
 - 📄 Know about my [experiences](https://drive.google.com/file/d/1LeE9dMTUC3gxh3IjxQrcnhFuFuDU7CXJ/view?usp=sharing)
 
-- ⚡ Fun fact **I am a team player! I fill in what the team needs**
+- ⚡ **I am a team player! I fill in what the team needs** 🚀
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
